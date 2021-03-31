@@ -1,0 +1,26 @@
+<header class="header">
+			<div>
+				<h1 id="alert">
+					True Premier HD 1</h1>
+			</div>
+			<p style="text-align: center">
+				<body style="background-color:powderblue;">
+			      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+      <script src="https://unpkg.com/video.js/dist/video.js"></script>
+      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+    </head>
+    
+    <body>
+      <video id="epl-1" allowfullscreen="yes" class="video-js vjs-fluid vjs-default-skin" poster="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png"controls preload="auto" 
+      data-setup='{}'>
+        <source src="http://ip2121.com:8081/4kweb/true1/chunks.m3u8" type="video/mp4">
+      </video>
+
+      
+    <script>
+    var player = videojs('epl-1');
+    player.play();
+    </script>
+      
+    </body>
+    </html>
