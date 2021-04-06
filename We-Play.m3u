@@ -20,6 +20,8 @@ https://we-play.tv/watching/tv/true4u
 https://true4u.com/live/
 #EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/faj2lsvhcnc4w04g8g.png",GMM 25
 https://we-play.tv/watching/tv/gmm25
+#EXTINF:-1, CH 8
+https://www.thaich8.com/live?var_link=720p
 #EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/upbw6u3iwaskgckkow.png",Mono 29
 https://we-play.tv/watching/tv/mono29
 #EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3emdgxfbf944o8cc00.png",MCOT HD
