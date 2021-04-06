@@ -1,35 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/28c25j72ug4kkgw80c.png",3hd
-https://we-play.tv/watching/tv/ch3-hd
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/d20ejgve15kc8c4k4o.png",5hd
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/d20ejgve15kc8c4k4o.png", TV 5 HD
 https://we-play.tv/watching/tv/ch5-hd
 #EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1zqw3s4d6f5wg88g8s.png",NBT
 https://we-play.tv/watching/tv/11-nbt
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/8f1c32memko40ccso.png",7hd
-https://we-play.tv/watching/tv/ch7-hd
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3emdgxfbf944o8cc00.png",mcothd
-https://we-play.tv/watching/tv/mcot-hd
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1nztjk0bn9voogskog.png",tpbs
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1nztjk0bn9voogskog.png",Thai pbs
 https://we-play.tv/watching/tv/thai-pbs
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/mrg9o4kklpwccsgg0s.png",pptv
-https://we-play.tv/watching/tv/pptv-hd
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/hddyztjzaps00woww.png",onehd
-https://we-play.tv/watching/tv/one-hd
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/jsxmg7mzts00wog4gs.png",amarintv
-https://we-play.tv/watching/tv/amarin-tv
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/587p40tflrwg80o88w.png",thairath
-https://we-play.tv/watching/tv/thairath-tv
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/upbw6u3iwaskgckkow.png",mono29
-https://we-play.tv/watching/tv/mono29
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/faj2lsvhcnc4w04g8g.png",gmm25
-https://we-play.tv/watching/tv/gmm25
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/q5nu5rg99hcwgcgcc4.png",nationtv
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/76YSM7KT/ALTV.png",ALTV
+https://www.altv.tv/live
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/GpM6jPbW/TPTV.png",TPTV
+http://live.parliament.go.th
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/y8NymKJ1/tnn.png",TNN16
+https://www.tnnthailand.com/live/
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/VLgF0vkZ/newtv.png",NEW 18
+http://61.19.242.134/feed/newtv/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/DzH6fNw2/nation.png",Nation TV
 https://we-play.tv/watching/tv/nationtv
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1sg0301mhv8kwwgoc.png",true4u
-https://we-play.tv/watching/tv/true4u
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/y34csex1h3kc4cso8w.png",workpoint
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/Y9NFcD4D/workpoint.png",Workpoint TV
 https://we-play.tv/watching/tv/workpoint
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/VNx9PbKv/true4u.png",True4u
+https://we-play.tv/watching/tv/true4u
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1sg0301mhv8kwwgoc.png",True4u
+https://true4u.com/live/
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/faj2lsvhcnc4w04g8g.png",GMM 25
+https://we-play.tv/watching/tv/gmm25
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/upbw6u3iwaskgckkow.png",Mono 29
+https://we-play.tv/watching/tv/mono29
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3emdgxfbf944o8cc00.png",MCOT HD
+https://we-play.tv/watching/tv/mcot-hd
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/hddyztjzaps00woww.png",One HD
+https://we-play.tv/watching/tv/one-hd
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/587p40tflrwg80o88w.png",ThairathbT 
+https://we-play.tv/watching/tv/thairath-tv
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/28c25j72ug4kkgw80c.png",CH 3 HD
+https://we-play.tv/watching/tv/ch3-hd
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/jsxmg7mzts00wog4gs.png",Amarin TV
+https://we-play.tv/watching/tv/amarin-tv
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/8f1c32memko40ccso.png",CH 7 HD
+https://we-play.tv/watching/tv/ch7-hd
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/zvSFjXSB/pptv.png",PPTV
+https://we-play.tv/watching/tv/pptv-hd
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/T3mx1xPS/Top-News.png",Top News
+https://www.topnews.co.th/
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/J0QNbxLJ/NEWS-1.png",News 1
+http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/wanbkudp1zkck40wco.png",premier-football-hd-1
 https://we-play.tv/watching/tv/true-premier-football-hd-1
@@ -91,15 +105,15 @@ https://we-play.tv/watching/tv/skynet-sports-4
 https://we-play.tv/watching/tv/skynet-sports-5
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url",skynet-sports-6
 https://we-play.tv/watching/tv/skynet-sports-6
-#EXTINF:-1 group-title="Sport TV" tvg-logo="img.url", BT Sport 1 
+#EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/v146pvozl3k8gcsw48.png", BT Sport 1 
 https://we-play.tv/watching/tv/bt-sport-1-hd  
-#EXTINF:-1 group-title="Sport TV" tvg-logo="img.url", BT Sport 2
+#EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1nc1g927yxog0k0w0.png", BT Sport 2
 https://we-play.tv/watching/tv/bt-sport-1-hd
-#EXTINF:-1 group-title="Sport TV" tvg-logo="img.url", BT Sport 3
+#EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1a04bvqdexz4sw48o0.png", BT Sport 3
 https://we-play.tv/watching/tv/bt-sport-3-hd
-#EXTINF:-1 group-title="Digital TV" tvg-logo="img.url",BT SPORTS ESPN
+#EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/r7bi2tgk2tcw88gws.png",BT SPORTS ESPN
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8
-#EXTINF:-1 group-title="Sport TV" tvg-logo="img.url", Sky Sports Mainevent 
+#EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/xwr3zfd69twg8w8ckc.png", Sky Sports Mainevent 
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/chunks.m3u8
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url", EUROSPORT 1
 https://we-play.tv/watching/tv/eurosport-asia
@@ -142,7 +156,7 @@ https://we-play.tv/watching/tv/lovenature-4k
 https://we-play.tv/watching/tv/national-geographic
 #EXTINF:-1 group-title="Documentary TV" tvg-logo="img.url",nat-geo-wild
 https://we-play.tv/watching/tv/nat-geo-wild
-#EXTINF:-1 group-title="Digital TV" tvg-logo="img.url",discovery-asia
+#EXTINF:-1 group-title="Documentary TV" tvg-logo="img.url",discovery-asia
 https://we-play.tv/watching/tv/discovery-asia
 #EXTINF:-1 group-title="Documentary TV" tvg-logo="img.url",discovery-channel
 https://we-play.tv/watching/tv/discovery-channel
@@ -213,4 +227,15 @@ https://we-play.tv/watching/tv/kbs-world
 https://we-play.tv/watching/tv/waku-waku-japan
 #EXTINF:-1 group-title="Entertainment TV" tvg-logo="img.url",lifetime
 https://we-play.tv/watching/tv/lifetime
+
+#EXTINF:-1 group-title="Kids TV" tvg-logo="img.url",Baby TV
+https://we-play.tv/watching/tv/babytv
+#EXTINF:-1 group-title="Kids TV" tvg-logo="img.url",Cartoon Club
+https://we-play.tv/watching/tv/cartoon-club
+#EXTINF:-1 group-title="Kids TV" tvg-logo="img.url",TOONEE
+http://61.19.242.134/feed/LC23/playlist.m3u8
+#EXTINF:-1 group-title="Kids TV" tvg-logo="img.url",Animax
+http://61.19.242.134/feed/LC38/playlist.m3u8
+#EXTINF:-1 group-title="Kids TV" tvg-logo="img.url",Boomerang
+http://61.19.242.134/feed/chboomberang/index.m3u8
 
