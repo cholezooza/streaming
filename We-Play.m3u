@@ -1,70 +1,80 @@
 #EXTM3U
 ###http:/mookemtv.tk/We-Play.m3u
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/d20ejgve15kc8c4k4o.png", TV 5 HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch5.jpeg", TV 5 HD
 https://we-play.tv/watching/tv/ch5-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/d20ejgve15kc8c4k4o.png", TV 5 (bk)
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch5.jpeg", TV 5 (bk)
 http://www.tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1.php
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1zqw3s4d6f5wg88g8s.png",NBT
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-nbt.jpeg",NBT
 https://we-play.tv/watching/tv/11-nbt
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/y8NymKJ1/tnn.png",TNN16
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-tnn16.jpeg",TNN16
 https://www.tnnthailand.com/live/
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/VLgF0vkZ/newtv.png",NEW 18
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-new18.jpeg",NEW 18
 http://61.19.242.134/feed/newtv/playlist.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/DzH6fNw2/nation.png",Nation TV
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-nation.jpeg",Nation TV
 https://we-play.tv/watching/tv/nationtv
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/Y9NFcD4D/workpoint.png",Workpoint TV
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-workpoint.jpeg",Workpoint TV
 https://we-play.tv/watching/tv/workpoint
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/VNx9PbKv/true4u.png",True4u
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-true4u.jpeg",True4u
 https://we-play.tv/watching/tv/true4u
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1sg0301mhv8kwwgoc.png",True4u
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-true4u.jpeg",True4u
 https://true4u.com/live/
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/faj2lsvhcnc4w04g8g.png",GMM 25
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-gmm25.jpeg",GMM 25
 https://we-play.tv/watching/tv/gmm25
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/W30GNbyn/8hd.png",CH 8
 https://www.thaich8.com/live?var_link=720p
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/upbw6u3iwaskgckkow.png",Mono 29
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-mono29.jpeg",Mono 29
 https://we-play.tv/watching/tv/mono29
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/3emdgxfbf944o8cc00.png",MCOT HD
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-mcot.jpeg",MCOT HD
 https://we-play.tv/watching/tv/mcot-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/hddyztjzaps00woww.png",One HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-one.jpeg",One HD
 https://we-play.tv/watching/tv/one-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/hddyztjzaps00woww.png",One HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-one.jpeg",One HD
 https://www.one31.net/live
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/587p40tflrwg80o88w.png",ThairathbT 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-thairath.jpeg",Thairath TV
 https://we-play.tv/watching/tv/thairath-tv
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/28c25j72ug4kkgw80c.png",CH 3 HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch3.jpeg",CH 3 HD
 https://we-play.tv/watching/tv/ch3-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/jsxmg7mzts00wog4gs.png",Amarin TV
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-amarin.jpeg",Amarin TV
 https://we-play.tv/watching/tv/amarin-tv
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/8f1c32memko40ccso.png",CH 7 HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch7.jpeg",CH 7 HD
 https://we-play.tv/watching/tv/ch7-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/8f1c32memko40ccso.png",CH 7 HD
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch7.jpeg",CH 7 HD
 https://www.ch7.com/live.html
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/zvSFjXSB/pptv.png",PPTV
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-pptv.jpeg",PPTV
 https://we-play.tv/watching/tv/pptv-hd
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/zvSFjXSB/pptv.png",PPTV
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-pptv.jpeg",PPTV
 https://www.pptvhd36.com/live
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1nztjk0bn9voogskog.png",Thai pbs
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-tpbs.jpeg",Thai pbs
 https://we-play.tv/watching/tv/thai-pbs
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/76YSM7KT/ALTV.png",ALTV
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-altv.jpeg",ALTV
 https://www.altv.tv/live
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/T3mx1xPS/Top-News.png",Top News
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/topnews.jpeg",Top News
 https://www.topnews.co.th/
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/J0QNbxLJ/NEWS-1.png",News 1
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/news1.jpeg",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/GpM6jPbW/TPTV.png",TPTV
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-tptv.jpeg",TPTV
 http://live.parliament.go.th
 
 #EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/wanbkudp1zkck40wco.png",premier-football-hd-1
@@ -144,7 +154,8 @@ https://we-play.tv/watching/tv/mutv
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url", LFC
 https://we-play.tv/watching/tv/lfc-tv
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url", Barca TV
-https://we-play.tv/watching/tv/barca-tv
+#https://we-play.tv/watching/tv/barca-tv
+http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/1p4iaskylpz44so000.png", Sport TV 1 
 https://we-play.tv/watching/tv/sport-tv-1
 #EXTINF:-1 group-title="Sport TV" tvg-logo="http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/bicv67qwotcg4gkkoo.png", Sport TV 2
