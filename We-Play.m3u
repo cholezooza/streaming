@@ -8,7 +8,7 @@ https://we-play.tv/watching/tv/ch5-hd
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch5.jpeg", TV 5 (bk)
 http://www.tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1.php
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-nbt.jpeg",NBT
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/nbt2sd.jpeg",NBT
 https://we-play.tv/watching/tv/11-nbt
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-tnn16.jpeg",TNN16
@@ -112,7 +112,7 @@ https://we-play.tv/watching/tv/golf-channel
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url",nba
 https://we-play.tv/watching/tv/nba-tv
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url",nfl
-https://we-play.tv/watching/tv/nfl-network
+https://mediasv.online/live/nflnetwork/playlist.m3u8
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url",motor
 https://we-play.tv/watching/tv/motor-vision
 #EXTINF:-1 group-title="Sport TV" tvg-logo="img.url",fox-sports-hd1
