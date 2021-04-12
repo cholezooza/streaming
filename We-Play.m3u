@@ -29,10 +29,10 @@ https://we-play.tv/watching/tv/true4u
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-true4u.jpeg",True4u
 https://true4u.com/live/
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-gmm25.jpeg",GMM 25
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/gmm25.jpeg",GMM 25
 https://we-play.tv/watching/tv/gmm25
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/W30GNbyn/8hd.png",CH 8
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch8.jpeg",CH 8
 https://www.thaich8.com/live?var_link=720p
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-mono29.jpeg",Mono 29
