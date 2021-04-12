@@ -1,5 +1,7 @@
 #EXTM3U
 ###http:/mookemtv.tk/We-Play.m3u
+###https://raw.githubusercontent.com/cholezooza/streaming/main/We-Play.m3u
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch5.jpeg", TV 5 HD
 https://we-play.tv/watching/tv/ch5-hd
 
