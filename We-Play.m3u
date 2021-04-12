@@ -8,7 +8,7 @@ https://we-play.tv/watching/tv/ch5-hd
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/hd-ch5.jpeg", TV 5 (bk)
 http://www.tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1.php
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/nbt2sd.jpeg",NBT
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/nbt2hd.jpeg",NBT
 https://we-play.tv/watching/tv/11-nbt
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://cholezooza.github.io/dooball/sd-tnn16.jpeg",TNN16
